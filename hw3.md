@@ -67,7 +67,7 @@ graph TD
 
 ---
 
-## 3. 使用案例圖 (Use Case Diagram) 與 使用案例說明
+## 3. 使用案例圖 (Use Case Diagram) 
 
 ### 使用案例圖
 #### 主要角色與關係：
