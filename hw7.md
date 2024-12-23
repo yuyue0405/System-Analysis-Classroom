@@ -1,5 +1,4 @@
 ```mermaid
-
 erDiagram
     User {
         int userId PK "用戶ID"
@@ -21,6 +20,5 @@ erDiagram
     }
 
     User ||--o{ HistoryRecord : "擁有"
-![image](https://github.com/user-attachments/assets/8e367399-5023-4ce1-b515-1af8470e6471)
 
 ```
